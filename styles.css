@@ -1,0 +1,31 @@
+body{
+    font-family:fantasy;
+    font-size:x-small;
+   
+}
+   
+h1{
+    color: #D8D7DB;
+    border: 2px dotted #F2BC57;
+    border-width: 10px;
+    
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 16%;
+}
+button{
+    background-color: #F2BC57;
+    color: rgb(31, 31, 151);
+    width: 100px;
+    height: 60px;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+a:hover{
+    font-weight: bolder;
+    color: rgb(249, 255, 129);
+}
